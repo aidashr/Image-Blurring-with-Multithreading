@@ -1,0 +1,3 @@
+/Users/aida__shr/Desktop/assignment1-MulticoreProgramming/blur/build/CMakeFiles/blur.dir
+/Users/aida__shr/Desktop/assignment1-MulticoreProgramming/blur/build/CMakeFiles/edit_cache.dir
+/Users/aida__shr/Desktop/assignment1-MulticoreProgramming/blur/build/CMakeFiles/rebuild_cache.dir
